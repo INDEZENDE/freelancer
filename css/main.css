@@ -118,10 +118,9 @@ footer {
   align: center;
   display: inline-block;
   height: 535px;
-  left  : 122px;
+  left  : 6%;
   position: relative;
   top:114px;
-  width: 1144px;
 }
 
 
@@ -182,7 +181,7 @@ footer {
   font-size: 20px;
   font-weight: 400;
   height: 48px;
-  left: 570px;
+  left: 42%;
   position: relative;
   top: 215px;
   width: 215px;
@@ -271,21 +270,21 @@ footer {
   float: left;
   height: 190px;
   position: relative;
-  width: 410px;
+  width: 29%;
 }
 
 .center-footer {
   float: left;
   height: 190px;
   position: relative;
-  width: 472px;
+  width: 38%;
 }
 
 .right-footer {
   float: left;
   height: 190px;
   position: relative;
-  width: 460px;
+  width: 30%;
 }
 
 .title-footer {
@@ -496,26 +495,24 @@ footer {
 
 #title_left {
   position: relative;
-  padding-left:220px;
+  padding-left:51%;
 }
 
 #title_center {
   position: relative;
-  padding-left:123px;
+  padding-left:28%;
 }
 #title_right {
   position: relative;
-  padding-left:19px;
+  padding-left:9%;
 }
 
 #description_footer1 {
   position: relative;
-  padding-left: 183px;
-
+  padding-left: 40%;
 }
 
 #description_footer3 {
   position: relative;
-  padding-left: 9px;
-  padding-right: 122px;
+  padding-right: 1%;
 }
