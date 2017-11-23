@@ -56,6 +56,138 @@ footer {
   width: 100%;
 }
 
+#left_nav{
+  font-size: 24px;
+  font-weight: 700;
+  height: 21px;
+  left: 8.9%;
+  position: relative;
+  top:25%;
+  }
+
+#rigth_nav{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  left: 52%;
+  position: relative;
+  top:20px;
+}
+
+#titulo_segunda_seccion {
+  font-size: 75px;
+  font-weight:800;
+  margin: 0;
+  padding-top: 43px;
+}
+
+#separacion_segunda_seccion {
+    display: inline-block;
+    height: 54px;
+    position: relative;
+    top: 97px;
+    width: 250px;
+}
+
+#secundary_title_section3 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  font-weight: 900;
+  height: 37.5px;
+  line-height: 1.5;
+  position: relative;
+  text-align: center;
+  top: 90px;
+  width: 100%;
+}
+
+#separacion_tercera_seccion {
+  display: inline-block;
+  height: 44px;
+  left: 41%;
+  position: relative;
+  top: 114px;
+  width: 250px;
+}
+
+#portafolio_top {
+  display: inline-block;
+  height: 254px;
+  margin:0;
+  padding: 0;
+  width: 100%;
+}
+
+#portafolio_botom {
+  display: inline-block;
+  margin:0;
+  padding: 0;
+  width: 100%;
+}
+
+#separacion_cuarta_seccion {
+  color: white;
+  display: inline-block;
+  height: 44px;
+  left: 41%;
+  position: relative;
+  top: 117px;
+  width: 250px;
+}
+
+#colum1_section4 {
+  color: white;
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  height: 107px;
+  left:37px;
+  line-height: 1.5;
+  position: relative;
+  top:0px;
+  width: 354px;
+}
+
+#colum2_section4 {
+  color: white;
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  height: 107px;
+  left:58px;
+  line-height: 1.5;
+  position: relative;
+  top:0px;
+  vertical-align: top;
+  width: 354px;
+}
+
+#title_left {
+  position: relative;
+  padding-left:51%;
+}
+
+#title_center {
+  position: relative;
+  padding-left:28%;
+}
+#title_right {
+  position: relative;
+  padding-left:9%;
+}
+
+#description_footer1 {
+  position: relative;
+  padding-left: 40%;
+}
+
+#description_footer3 {
+  position: relative;
+  padding-right: 1%;
+}
+
+
 .text-uppercase {
   text-transform: uppercase;
 }
@@ -170,7 +302,6 @@ footer {
   position: relative;
   top:118px;
   width: 800px;
-
 }
 
 .download-button {
@@ -378,141 +509,8 @@ footer {
 }
 
 .description-footer-center {
-
   display: inline-block;
   position: relative;
   top: 47px;
   width: 100%;
-}
-
-
-#left_nav{
-  font-size: 24px;
-  font-weight: 700;
-  height: 21px;
-  left: 8.9%;
-  position: relative;
-  top:25%;
-  }
-
-#rigth_nav{
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
-  font-weight: 700;
-  left: 52%;
-  position: relative;
-  top:20px;
-}
-
-#titulo_segunda_seccion {
-  font-size: 75px;
-  font-weight:800;
-  margin: 0;
-  padding-top: 43px;
-}
-
-#separacion_segunda_seccion {
-    display: inline-block;
-    height: 54px;
-    position: relative;
-    top: 97px;
-    width: 250px;
-}
-
-#secundary_title_section3 {
-  color: white;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 25px;
-  font-weight: 900;
-  height: 37.5px;
-  line-height: 1.5;
-  position: relative;
-  text-align: center;
-  top: 90px;
-  width: 100%;
-}
-
-#separacion_tercera_seccion {
-  display: inline-block;
-  height: 44px;
-  left: 41%;
-  position: relative;
-  top: 114px;
-  width: 250px;
-}
-
-#portafolio_top {
-  display: inline-block;
-  height: 254px;
-  margin:0;
-  padding: 0;
-  width: 100%;
-}
-
-#portafolio_botom {
-  display: inline-block;
-  margin:0;
-  padding: 0;
-  width: 100%;
-}
-
-#separacion_cuarta_seccion {
-  color: white;
-  display: inline-block;
-  height: 44px;
-  left: 41%;
-  position: relative;
-  top: 117px;
-  width: 250px;
-}
-
-#colum1_section4 {
-  color: white;
-  display: inline-block;
-  font-family: 'Lato', sans-serif;
-  font-size: 20px;
-  height: 107px;
-  left:37px;
-  line-height: 1.5;
-  position: relative;
-  top:0px;
-  width: 354px;
-}
-
-#colum2_section4 {
-  color: white;
-  display: inline-block;
-  font-family: 'Lato', sans-serif;
-  font-size: 20px;
-  height: 107px;
-  left:58px;
-  line-height: 1.5;
-  position: relative;
-  top:0px;
-  vertical-align: top;
-  width: 354px;
-}
-
-#title_left {
-  position: relative;
-  padding-left:51%;
-}
-
-#title_center {
-  position: relative;
-  padding-left:28%;
-}
-#title_right {
-  position: relative;
-  padding-left:9%;
-}
-
-#description_footer1 {
-  position: relative;
-  padding-left: 40%;
-}
-
-#description_footer3 {
-  position: relative;
-  padding-right: 1%;
 }
