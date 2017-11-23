@@ -6,21 +6,21 @@ Replicar el sitio **Freelancer**
 
 ## Flujo de trabajo
 
-# Previo
+### Previo
 
 1. Realizar un [**fork**] de este repositorio.
 
 2.  **clonar** tu fork en mi máquina.
 
-# HTML
+### HTML
 
 1.  Colocar los enlaces que se van a utilizar  (tipo de letra, íconos externo y css)
 
-2. Generar un <nav>  que contenga la parte inicial de la página del lado derecho e izquierdo.
+2. Generar un **nav**  que contenga la parte inicial de la página del lado derecho e izquierdo.
 
-  2.1. Del lado izquierdo contiene el título de la página
+  * Del lado izquierdo contiene el título de la página
 
-  2.2. Del lado derecho contiene el menú de navegación
+  * Del lado derecho contiene el menú de navegación
 
 3. Generar un <header> que contiene la descripción general de la página.
 
@@ -30,6 +30,6 @@ Replicar el sitio **Freelancer**
 
 6. La sexta sección el el <footer>, el cual  está dividido en 3 columnas  y al final una línea centrada que contiene el "Copyright"
 
-  6.1. Primer columna, contiene "LOCATION"
-  6.2. Segunda columna, contiene "AROUND THE WEB"
-  6.1. Tercer columna, contiene "ABOUT FRELANCER"
+  * Primer columna, contiene "LOCATION"
+  * Segunda columna, contiene "AROUND THE WEB"
+  * Tercer columna, contiene "ABOUT FRELANCER"
